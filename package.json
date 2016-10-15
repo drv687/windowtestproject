@@ -1,0 +1,14 @@
+{
+  "name": "ship",
+  "version": "1.0.0",
+  "description": "a version of battleship",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Diana Van Hook",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.3"
+  }
+}
